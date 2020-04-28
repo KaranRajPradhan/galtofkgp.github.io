@@ -1,0 +1,3 @@
+FILE=/esp32/joovv-mesh.bin
+VERSION=1.0.12
+INTERVAL=10
